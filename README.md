@@ -1,3 +1,5 @@
+C:\Users\Guider\AppData\Roaming\JetBrains\WebStorm2020.2\templates
+
 # JS ES6 code completion live templates for Webstorm
 
 ## First - A word about contribution & Extending.
